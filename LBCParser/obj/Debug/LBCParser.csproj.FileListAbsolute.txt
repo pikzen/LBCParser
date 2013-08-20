@@ -1,0 +1,9 @@
+c:\users\florian\documents\visual studio 2012\Projects\LBCParser\LBCParser\obj\Debug\LBCParser.csprojResolveAssemblyReference.cache
+c:\users\florian\documents\visual studio 2012\Projects\LBCParser\LBCParser\bin\Debug\LBCParser.pdb
+c:\users\florian\documents\visual studio 2012\Projects\LBCParser\LBCParser\bin\Debug\HtmlAgilityPack.dll
+c:\users\florian\documents\visual studio 2012\Projects\LBCParser\LBCParser\bin\Debug\HtmlAgilityPack.pdb
+c:\users\florian\documents\visual studio 2012\Projects\LBCParser\LBCParser\bin\Debug\HtmlAgilityPack.xml
+c:\users\florian\documents\visual studio 2012\Projects\LBCParser\LBCParser\obj\Debug\LBCParser.pdb
+C:\Users\Florian\documents\visual studio 2012\Projects\LBCParser\LBCParser\bin\Debug\LBCParser.dll.config
+C:\Users\Florian\documents\visual studio 2012\Projects\LBCParser\LBCParser\bin\Debug\LBCParser.dll
+C:\Users\Florian\documents\visual studio 2012\Projects\LBCParser\LBCParser\obj\Debug\LBCParser.dll
